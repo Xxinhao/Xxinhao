@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="welcome.gif" alt="welcome" width="100%">
+  <img src="./profile/welcome.gif" alt="welcome" width="100%">
 </p>
 
 <div align="center">
