@@ -1,15 +1,10 @@
-👋 Hello, I'm Xinhao Wang
-
-<p align="center">
-  <b>title_1 | title_2 | title_3</b>
-</p>
 
 <p align="center">
   <img src="welcome.gif" alt="welcome" width="800">
 </p>
 
-<p align="center">
-  <img src="welcome.gif" width="600" alt="description">
+<p>
+  <b>title_1 | title_2 | title_3</b>
 </p>
 
 <a href="https://space.bilibili.com/336962829">
