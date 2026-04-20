@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#ff00ff&color_dots=#ebedf0,#f5d0fe,#d8b4fe,#a855f7,#7e22ce
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff00ff&color_dots=#161b22,#4c1d95,#6d28d9,#7c3aed,#a855f7
 
       # 2. 将生成的图片推送到 'output' 分支
       - name: push github-contribution-grid-snake.svg to the output branch
