@@ -1,19 +1,33 @@
-## Hi there 👋
-欢迎来到我的主页！
+👋 Hello, I'm Xinhao Wang
 
+<p align="center">
+  <b>title_1 | title_2 | title_3</b>
+</p>
 
+<p align="center">
+  <img src="welcome.gif" alt="welcome" width="800">
+</p>
 
-<!--
-**Xxinhao/Xxinhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="welcome.gif" width="600" alt="description">
+</p>
 
-Here are some ideas to get you started:
+<a href="https://space.bilibili.com/336962829">
+  <img src="https://img.shields.io/badge/BiliBili-34495E?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=2C3E50" alt="Bilibili">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.xiaohongshu.com/user/profile/60b465c20000000001004912">
+  <img src="https://img.shields.io/badge/rednote-4E342E?style=for-the-badge&logo=xiaohongshu&logoColor=white&labelColor=3E2723" alt="Rednote">
+</a>
+
+</br>
+
+<a href="https://space.bilibili.com/336962829">
+  <img src="https://img.shields.io/badge/BiliBili-F5F5F5?style=for-the-badge&logo=bilibili&logoColor=F5F5F5&labelColor=24292e" alt="Bilibili">
+</a>
+
+<a href="https://www.xiaohongshu.com/user/profile/60b465c20000000001004912">
+  <img src="https://img.shields.io/badge/Rednote-F5F5F5?style=for-the-badge&logo=xiaohongshu&logoColor=F5F5F5&labelColor=24292e" alt="Rednote">
+</a>
+
+</br>
