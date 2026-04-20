@@ -3,10 +3,6 @@
   <img src="welcome.gif" alt="welcome" width="100%">
 </p>
 
-<p align="center">
-  <b>Database Technologies</b>
-</p>
-
 <div align="center">
     <a href="https://space.bilibili.com/336962829">
     <img src="https://img.shields.io/badge/BiliBili-34495E?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=2C3E50" alt="Bilibili">
@@ -25,6 +21,13 @@
     </a>
 </div>
 
+</br>
+
+<div align="center">
+    <picture>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xxinhao/Xxinhao/output/github-contribution-grid-snake.svg">
+    </picture>  
+</div>
 
 My Project
 
