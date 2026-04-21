@@ -13,7 +13,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://store.steampowered.com/">
-    <img src="https://img.shields.io/badge/MyBlog-F5F5F5?style=for-the-badge&logo=Github&logoColor=F5F5F5&labelColor=24292e" alt="Web">
+    <img src="https://img.shields.io/badge/Myweb-F5F5F5?style=for-the-badge&logo=Github&logoColor=F5F5F5&labelColor=24292e" alt="Myweb">
     </a>
 </div>
 
@@ -22,7 +22,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xxinhao/Xxinhao/output/github-contribution-grid-snake.svg">
     </picture>  
 </div>
-
-
-
-</br>
