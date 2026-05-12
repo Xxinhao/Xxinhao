@@ -4,16 +4,16 @@
 </p>
 
 <div align="center">
-    <a href="https://store.steampowered.com/">
+    <a href="https://space.bilibili.com/336962829">
     <img src="https://img.shields.io/badge/BiliBili-F5F5F5?style=for-the-badge&logo=bilibili&logoColor=F5F5F5&labelColor=24292e" alt="Bilibili">
     </a>
     &nbsp;&nbsp;
     <a href="https://store.steampowered.com/">
-    <img src="https://img.shields.io/badge/Rednote-F5F5F5?style=for-the-badge&logo=xiaohongshu&logoColor=F5F5F5&labelColor=24292e" alt="Rednote">
+    <img src="https://img.shields.io/badge/Portfolio-F5F5F5?style=for-the-badge&logo=readme&logoColor=F5F5F5&labelColor=24292e" alt="Portfolio">
     </a>
     &nbsp;&nbsp;
-    <a href="https://store.steampowered.com/">
-    <img src="https://img.shields.io/badge/Myweb-F5F5F5?style=for-the-badge&logo=Github&logoColor=F5F5F5&labelColor=24292e" alt="Myweb">
+    <a href="https://typecho.superxinhao.online/">
+    <img src="https://img.shields.io/badge/MyBlog-F5F5F5?style=for-the-badge&logo=Github&logoColor=F5F5F5&labelColor=24292e" alt="MyBlog">
     </a>
 </div>
 
